@@ -31,7 +31,6 @@
     - [Recurrent Neural Nets, LSTM, GRU](#rnn)
     - [Restricted Boltzmann Machine, DBNs](#rbm)
     - [Autoencoders](#auto)
-    - [Convolution Neural Nets](#cnn)
 - [Natural Language Processing](#nlp)
     - [Topic Modeling, LDA](#topic)
     - [Word2Vec](#word2vec)
@@ -309,6 +308,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [Simplified Scikit-learn Style Interface to TensorFlow](https://github.com/tensorflow/skflow)
         - [Learning TensorFlow GitHub Repo](https://github.com/chetannaik/learning_tensorflow)
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
+        - [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow)
         
 
 <a name="feed" />
